@@ -11,7 +11,6 @@ The goal of this project is to detect, analyze, and forecast crime hotspots in u
 - Forecasting future crime patterns using ARIMA and LSTM models
 - Visualizing results in 3D using Kepler.gl
 - Evaluating model performance through classification metrics
-
 ---
 
 ## 📁 File Structure
