@@ -1,3 +1,4 @@
+
 # 🔍 Crime Hotspot Detection & Mapping 🗺️
 
 This project is a data-driven exploration of urban crime patterns using spatial analysis, clustering algorithms, and predictive modeling techniques. It was developed as part of the **INT 375 - Data Science Toolbox** course to integrate GIS, machine learning, and visualization tools for practical crime trend analysis.
